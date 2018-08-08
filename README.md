@@ -4,7 +4,10 @@
 
 ## 0. 下载并安装`nrf connect`软件
 
+![](./pic/icon.webp)
 
+- 软件可通过谷歌官方下载链接[[nRF Connect for Mobile]](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)下载
+- 无法访问谷歌商店的用户可以在其他商店搜索`nrf connect`关键字下载
 
 ## 1. 打开软件，搜索设备
 
