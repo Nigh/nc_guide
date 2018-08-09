@@ -7,7 +7,8 @@
 ![](./pic/icon.webp)
 
 - 软件可通过谷歌官方下载链接[[nRF Connect for Mobile]](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)下载
-- 无法访问谷歌商店的用户可以在其他商店搜索`nrf connect`关键字下载
+- 无法访问谷歌商店的用户可以使用[[本地下载]](./apk/no.nordicsemi.android.mcp.apk)
+- 请不要在大陆安卓商店下载，因为上面的版本大多为两年之前或更早的版本，无法正常使用。请使用`4.19.2`或更新的版本
 
 ## 1. 打开软件，搜索设备
 
@@ -33,7 +34,7 @@
 ![](./pic/GIF3.gif)
 
 - 点击右上角的`DFU`按钮
-- 选择已经准备好的升级包
+- 选择已经准备好的升级包（不能正常选择的用户，可尝试长按安装包选择）
 
 
 
@@ -42,6 +43,7 @@
 ![](./pic/GIF4.gif)
 
 - 根据系统的不同，升级进度会显示在通知栏，或者如图中所示的另一个`tab`中
+- 点击原设备名的`tab`可显示升级进度
 
 
 
